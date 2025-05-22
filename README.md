@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm João Bidoia</h1>
-<h3 align="center">An IT technician and computer science student at UEM</h3>
+<h3 align="center">An IT technician focused on development and a computer science student at UEM</h3>
 
 - 📫 How to reach me *joaovitorbidoiaangelo@gmail.com*
 
